@@ -1,0 +1,8 @@
+Model,Accuracy
+Decision Tree,0.9652
+Random Forest,0.9775
+KNN,0.9375
+SVM,0.9615
+Gradient Boosting,0.9755
+AdaBoost,0.7943
+XGBoost,0.9755
